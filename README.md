@@ -44,10 +44,10 @@ Light Mode
 </tody>
 </table>
 <br />
-<h5>AI Chatbot :</h5>
+<h5>AI Chatbot (Fonctionnalité 1) :</h5>
 <img src="./screenShots/screen4.png" alt="ai chatbot">
 <br />
-<h5>AI Image Generator :</h5>
+<h5>AI Image Generator (Fonctionnalité 2) :</h5>
 <table>
 <thead>
 <tr>
@@ -71,7 +71,7 @@ Après la génération de l'image
 </tody>
 </table>
 <br />
-<h5>AI Text Translator :</h5>
+<h5>AI Text Translator (Fonctionnalité 3) :</h5>
 <img src="./screenShots/screen7.png" alt="Text Translator">
 <br />
 <hr />
