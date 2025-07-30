@@ -16,11 +16,11 @@ suivantes et qui sont tous basées sur l'IA : <b>Un bot de chat</b>, <b>La gén�
 </ul>
 
 <br />
-<h3>✨ Captures d'écran</h3>
+<h3>📸 Captures d'écran</h3>
 <h5>Démarrage et chargement de l'application :</h5>
 <img src="./screenShots/screen1.png" alt="screen1" />
 <br />
-<h5>Fonctionnalités de l'application (Menu principal) :</h5>
+<h5>Menu principal (pour acceder aux différentes fonctionnalités de l'application) :</h5>
 <table>
 <thead>
 <tr>
