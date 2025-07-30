@@ -1,9 +1,8 @@
 <h1>📱 Assistant AI</h1>
+<p>
 Une application mobile développée avec le <b>Framework Flutter</b> qui intègre les fonctionnalités 
-suivantes et qui sont tous basées sur l'IA : 
-- <b>Un bot de chat</b> 
-- <b>La génération d'image</b>
-- <b>La traduction du langue </b>.
+suivantes et qui sont tous basées sur l'IA : <b>Un bot de chat</b>, <b>La génération d'image</b> et <b>La traduction linguistique</b>.
+</p>
 <br />
 <h3>✨ Fonctionnalités</h3>
 <ul>
