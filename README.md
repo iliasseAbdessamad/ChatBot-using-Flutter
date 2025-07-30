@@ -72,7 +72,7 @@ Après la génération de l'image
 </table>
 <br />
 <h5>AI Text Translator :</h5>
-<img src="./screenShots/screen6.png" alt="Text Translator">
+<img src="./screenShots/screen7.png" alt="Text Translator">
 <br />
 <hr />
 <br />
