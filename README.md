@@ -17,11 +17,10 @@ suivantes et qui sont tous basées sur l'IA : <b>Un bot de chat</b>, <b>La gén�
 
 <br />
 <h3>✨ Captures d'écran</h3>
-
-**Démarrage et chargement de l'application :**
+<h5>Démarrage et chargement de l'application :</h5>
 <img src="./screenShots/screen1.png" alt="screen1" />
 <br />
-**Fonctionnalités de l'application (Menu principal) :**
+<h5>Fonctionnalités de l'application (Menu principal) :</h5>
 <table>
 <thead>
 <tr>
@@ -45,10 +44,10 @@ Light Mode
 </tody>
 </table>
 <br />
-**AI Chatbot :**
+<h5>AI Chatbot :</h5>
 <img src="./screenShots/screen4.png" alt="ai chatbot">
 <br />
-**AI Image Generator :**
+<h5>AI Image Generator :</h5>
 <table>
 <thead>
 <tr>
@@ -72,7 +71,7 @@ Après la génération de l'image
 </tody>
 </table>
 <br />
-**AI Text Translator :**
+<h5>AI Text Translator :</h5>
 <img src="./screenShots/screen6.png" alt="Text Translator">
 <br />
 <hr />
